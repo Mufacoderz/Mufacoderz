@@ -14,7 +14,10 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📊 My Coding Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/Mufacoderz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mufacoderz&layout=compact)](https://github.com/Mufacoderz/github-readme-stats)
+
+[![Mufacoderz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mufacoderz&show_icons=true&theme=radical)](https://github.com/Mufacoderz/github-readme-stats)
+
 
 ## 🌐 Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/yourprofile](https://www.facebook.com/profile.php?id=100042549514476&mibextid=ZbWKwL))
