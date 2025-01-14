@@ -1,7 +1,8 @@
 # Hi There 👋 I'm Muhammad Fadil
 
 Welcome to my GitHub profile! I am an Information Systems student passionate about front-end and back-end development.
-"👨‍💻 Coding enthusiast on a mission to craft user-friendly and dynamic web applications. Let's build something awesome together!"
+
+👨‍💻 Coding enthusiast on a mission to craft user-friendly and dynamic web applications. Let's build something awesome together!
 
 ## 👨‍💻 About Me
 - 🧑‍🎓 Currently pursuing a degree in Information Systems.
@@ -20,6 +21,12 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+## 🚀 What I'm Working On
+- 🔥 Building dynamic front-end experiences with React and Tailwind CSS.
+- 🌍 Exploring the world of back-end development using Node.js and Laravel.
+
 
 ## 📊 My Coding Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mufacoderz&layout=compact)](https://github.com/Mufacoderz/github-readme-stats)
