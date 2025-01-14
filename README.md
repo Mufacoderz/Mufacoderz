@@ -2,6 +2,13 @@
 
 Welcome to my GitHub profile! I am an Information Systems student passionate about front-end and back-end development.
 
+## 👨‍💻 About Me
+- 🧑‍🎓 Currently pursuing a degree in Information Systems.
+- 🌟 Passionate about creating interactive and visually appealing websites.
+- 🎯 My goal is to become a full-stack web developer.
+- 📬 Feel free to connect or collaborate!
+
+
 ## 🌱 Currently Learning
 - Web Development (Tailwind CSS, Node.js, React js)
 
@@ -18,8 +25,6 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 
 [![Mufacoderz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mufacoderz&show_icons=true&theme=radical)](https://github.com/Mufacoderz/github-readme-stats)
 
-## 🚀 Personnal Webiste
-**Mufadev**: [https://personnal-website-topaz.vercel.app/](https://personnal-website-topaz.vercel.app/)
 
 ## 🌐 Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/yourprofile](https://www.facebook.com/profile.php?id=100042549514476&mibextid=ZbWKwL))
