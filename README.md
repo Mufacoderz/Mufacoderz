@@ -1,6 +1,7 @@
 # Hi There 👋 I'm Muhammad Fadil
 
 Welcome to my GitHub profile! I am an Information Systems student passionate about front-end and back-end development.
+"👨‍💻 Coding enthusiast on a mission to craft user-friendly and dynamic web applications. Let's build something awesome together!"
 
 ## 👨‍💻 About Me
 - 🧑‍🎓 Currently pursuing a degree in Information Systems.
