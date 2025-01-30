@@ -35,5 +35,4 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 
 
 ## 🌐 Connect With Me
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/yourprofile](https://www.facebook.com/profile.php?id=100042549514476&mibextid=ZbWKwL))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourprofile](https://www.instagram.com/sebutsajamf/profilecard/?igsh=N2xjdnVobmthdGU0))
