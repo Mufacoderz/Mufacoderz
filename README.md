@@ -31,7 +31,6 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 ## 📊 My Coding Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mufacoderz&layout=compact)](https://github.com/Mufacoderz/github-readme-stats)
 
-[![Mufacoderz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mufacoderz&show_icons=true&theme=radical)](https://github.com/Mufacoderz/github-readme-stats)
 
 
 ## 🌐 Connect With Me
