@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 
 ## 🚀 What I'm Working On
 - 🔥 Building dynamic front-end experiences with React and Tailwind CSS.
-- 🌍 Exploring the world of back-end development using Node.js and PHP Laravel.
+
 
 
 ## 📊 My Coding Stats
