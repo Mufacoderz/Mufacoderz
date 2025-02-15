@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 - 🧑‍🎓 Currently pursuing a degree in Information Systems.
 - 🌟 Passionate about creating interactive and visually appealing websites.
 - 🎯 My goal is to become a software developer.
-- 📬 Feel free to connect or collaborate!
+  
 
 
 ## 🌱 Currently Learning
