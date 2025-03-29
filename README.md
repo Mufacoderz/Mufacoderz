@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 
 
 ## 🌱 Currently Learning
-- Web Development (Tailwind CSS, Node.js, React js)
+- Web Development (Tailwind CSS, Node.js, React js, PHP)
 
 ## 💻 Use To Code
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
