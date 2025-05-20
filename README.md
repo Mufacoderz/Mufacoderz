@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 
 
 ## 🌱 Currently Learning
-- Web Development (Tailwind CSS, Node.js, React js, Express js)
+- Tech Stack MERN (MongoDB, Express Js, React Js, Node Js)
 
 
 
