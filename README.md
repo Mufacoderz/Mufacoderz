@@ -8,24 +8,20 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 - 🧑‍🎓 Currently pursuing a degree in Information Systems.
 - 🌟 Passionate about creating interactive and visually appealing websites.
 - 🎯 My goal is to become a software developer.
-  
-
 
 ## 🌱 Currently Learning
 - Tech Stack MERN (MongoDB, Express Js, React Js, Node Js)
+- Programming Languange (C++)
 
-
-
-## 🚀 What I'm Working On
-- 🔥 Building dynamic front-end experiences with React and Tailwind CSS.
-
-
-
+## 🚀 Next To Explore
+- Next.js
+- TypeScript
+- AI
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sebutsajamf?igsh=N2xjdnVobmthdGU0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-fadil-1264b82a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mf9555759@gmail.com) 
 
-# 💻 Use to Code:
+## 💻 Use to Code:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
