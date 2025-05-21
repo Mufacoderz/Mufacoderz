@@ -16,7 +16,8 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 ## 🚀 Next To Explore
 - Next.js – for advanced React and server-side rendering  
 - TypeScript – for type-safe and scalable front-end apps  
-- AI – to build intelligent features and apps  
+- AI – to build intelligent features and apps
+- Python - for AI
 - Prisma – modern ORM for working with relational databases 
 
 ## 🌐 Socials:
