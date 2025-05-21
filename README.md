@@ -39,8 +39,8 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Mufacoderz&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mufacoderz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=Mufacoderz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mufacoderz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mufacoderz&icon=0&color=0)](https://visitcount.itsvg.in)
