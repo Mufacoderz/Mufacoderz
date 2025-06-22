@@ -13,10 +13,6 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 - Programming Languange: C++
 - Tech Stack: MERN (MongoDB, Express Js, React Js, Node Js)
 
-## 🚀 Next To Explore
-- Next.js – for advanced React and server-side rendering  
-- TypeScript – for type-safe and scalable front-end apps  
-  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sebutsajamf?igsh=N2xjdnVobmthdGU0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-fadil-1264b82a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mf9555759@gmail.com) 
