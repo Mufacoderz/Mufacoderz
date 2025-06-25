@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 ## 🌱 Currently Learning
 - Programming Languange: C++
 - Tech Stack: MERN (MongoDB, Express Js, React Js, Node Js)
+- Fetch API
 
 
 ## 🌐 Socials:
