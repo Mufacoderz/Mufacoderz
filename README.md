@@ -1,4 +1,4 @@
-![Hero](20250831_173317.jpg)
+![Hero](hero.jpg)
 
 # Hello World 👋 I'm Muhammad Fadil👨‍💻
 
