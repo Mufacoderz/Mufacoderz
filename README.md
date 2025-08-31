@@ -1,3 +1,5 @@
+![Hero](20250831_173317.jpg)
+
 # Hello World 👋 I'm Muhammad Fadil👨‍💻
 
 Welcome to my GitHub profile! I am an Information Systems student passionate about front-end and back-end development.
