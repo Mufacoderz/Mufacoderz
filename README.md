@@ -2,7 +2,7 @@
 
 # Hello World 👋 I'm Muhammad Fadil👨‍💻
 
-Welcome to my GitHub profile! I am an Information Systems student passionate about front-end and back-end development.
+Welcome to my GitHub profile! I am an Information Systems student passionate about Fullstack Development with AI Integrated .
 
 👨‍💻 Coding enthusiast on a mission to craft user-friendly and dynamic web applications with AI Integration. Let's build something awesome together!
 
@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 - 🎯 My goal is to become a software developer.
 
 ## 🌱 Currently Learning
-- Programming Languange: C++
 - Tech Stack: MERN (MongoDB/MySql, Express Js, React Js, Node Js)
 
 
