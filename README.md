@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 - 🎯 My goal is to become a software developer.
 
 ## 🌱 Currently Learning
-- Tech Stack: MERN (MongoDB/MySql, Express Js, React Js, Node Js)
+MySql, ExpressJs, ReactJs, NodeJs, Laravel
 
 
 
