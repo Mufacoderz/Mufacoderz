@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 - 🎯 My goal is to become a .....
 
 ## 🌱 Currently Learning
-MySql, ExpressJs, ReactJs, NodeJs, Laravel
+Backend
 
 
 
