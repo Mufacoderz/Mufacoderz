@@ -30,6 +30,12 @@ Backend
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Mufacoderz&label=Profile%20views&color=0e75b6&style=flat" alt="Mufacoderz" /> 
+</p>
+
+
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Mufacoderz&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=Mufacoderz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
