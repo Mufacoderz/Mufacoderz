@@ -1,5 +1,10 @@
 ![Hero](hero.jpg)
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Mufacoderz&label=Profile%20views&color=0e75b6&style=flat" alt="Mufacoderz" /> 
+</p>
+
+
 # Hello World 👋 I'm Muhammad Fadil👨‍💻
 
 Welcome to my GitHub profile! I am an Information Systems student passionate about Fullstack & Web3 Development.
@@ -31,9 +36,6 @@ Backend
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Mufacoderz&label=Profile%20views&color=0e75b6&style=flat" alt="Mufacoderz" /> 
-</p>
 
 
 # 📊 GitHub Stats:
