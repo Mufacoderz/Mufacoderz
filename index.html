@@ -1,50 +1,42 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> 🐷 </title>
-    <style>
-        body {
-            height: 100vh;
-            margin: 0;
-            background: linear-gradient(135deg, #1e3c72, #2a5298);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            font-family: 'Poppins', sans-serif;
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MUFADevX — Interactive README</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script type="module">
+        import * as esbuild from "https://unpkg.com/esbuild-wasm@0.17.19/esm/browser.min.js";
+
+        async function runTS() {
+            await esbuild.initialize({ wasmURL: "https://unpkg.com/esbuild-wasm@0.17.19/esbuild.wasm" });
+            const tsCode = await fetch("./main.ts").then(r => r.text());
+            const result = await esbuild.transform(tsCode, { loader: "ts" });
+
+            const script = document.createElement("script");
+            script.type = "module";
+            script.textContent = result.code;
+            document.body.appendChild(script);
         }
 
-        button {
-            background: #ff4b5c;
-            border: none;
-            padding: 15px 40px;
-            font-size: 18px;
-            color: white;
-            border-radius: 12px;
-            cursor: pointer;
-            transition: 0.3s;
-            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.3);
-        }
-
-        button:hover {
-            background: #ff2e45;
-            transform: scale(1.05);
-        }
-    </style>
+        runTS();
+    </script>
 </head>
 
-<body>
+<body
+    class="flex flex-col items-center justify-center min-h-screen bg-gradient-to-b from-gray-900 to-black text-white text-center">
+    <h1 class="text-4xl font-bold mb-4">💻 MUFADevX</h1>
+    <p class="text-gray-400 mb-8">Interactive README with TypeScript</p>
 
-    <button onclick="rickroll()"></button>
+    <div id="tech-container" class="p-4 bg-gray-800/70 rounded-xl shadow-lg max-w-md w-full"></div>
 
-    <script>
-        function rickroll() {
-            window.open("https://youtu.be/dQw4w9WgXcQ", "_blank");
-        }
-    </script>
+    <button id="action-btn"
+        class="mt-10 px-6 py-3 bg-blue-600 hover:bg-blue-500 rounded-xl font-semibold transition-all duration-200">
+        🔗 Click
+    </button>
 
+    <footer class="text-gray-500 text-sm mt-10">© 2025 MUFADevX</footer>
 </body>
 
 </html>
