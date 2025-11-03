@@ -33,7 +33,7 @@ Backend
   <tr>
     <td><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next" />
     </td>
   </tr>
 
