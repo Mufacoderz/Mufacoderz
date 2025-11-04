@@ -34,13 +34,13 @@ Backend
     <td><b>Frontend Skills</b></td>
     <td>
       <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
-        <img src="https://skillicons.dev/icons?i=html" width="100" />
-        <img src="https://skillicons.dev/icons?i=css" width="100" />
-        <img src="https://skillicons.dev/icons?i=js" width="100" />
-        <img src="https://skillicons.dev/icons?i=ts" width="100" />
-        <img src="https://skillicons.dev/icons?i=react" width="100" />
-        <img src="https://skillicons.dev/icons?i=next" width="100" />
-        <img src="https://skillicons.dev/icons?i=tailwind" width="100" />
+        <img src="https://skillicons.dev/icons?i=html" width="70" />
+        <img src="https://skillicons.dev/icons?i=css" width="70" />
+        <img src="https://skillicons.dev/icons?i=js" width="70" />
+        <img src="https://skillicons.dev/icons?i=ts" width="70" />
+        <img src="https://skillicons.dev/icons?i=react" width="70" />
+        <img src="https://skillicons.dev/icons?i=next" width="70" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="70" />
       </div>
     </td>
   </tr>
@@ -50,9 +50,9 @@ Backend
     <td><b>Backend Skills</b></td>
     <td>
       <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="100" />
-        <img src="https://skillicons.dev/icons?i=express" width="100" />
-        <img src="https://skillicons.dev/icons?i=nest" width="100" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="70" />
+        <img src="https://skillicons.dev/icons?i=express" width="70" />
+        <img src="https://skillicons.dev/icons?i=nest" width="70" />
       </div>
     </td>
   </tr>
@@ -62,8 +62,8 @@ Backend
     <td><b>Database</b></td>
     <td>
       <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
-        <img src="https://skillicons.dev/icons?i=mysql" width="100" />
-        <img src="https://skillicons.dev/icons?i=sequelize" width="100" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="70" />
+        <img src="https://skillicons.dev/icons?i=sequelize" width="70" />
       </div>
     </td>
   </tr>
@@ -73,11 +73,11 @@ Backend
     <td><b>Tools</b></td>
     <td>
       <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
-        <img src="https://skillicons.dev/icons?i=npm" width="100" />
-        <img src="https://skillicons.dev/icons?i=git" width="100" />
-        <img src="https://skillicons.dev/icons?i=github" width="100" />
-        <img src="https://skillicons.dev/icons?i=vscode" width="100" />
-        <img src="https://skillicons.dev/icons?i=vercel" width="100" />
+        <img src="https://skillicons.dev/icons?i=npm" width="70" />
+        <img src="https://skillicons.dev/icons?i=git" width="70" />
+        <img src="https://skillicons.dev/icons?i=github" width="70" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="70" />
+        <img src="https://skillicons.dev/icons?i=vercel" width="70" />
       </div>
     </td>
   </tr>
