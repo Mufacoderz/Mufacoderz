@@ -21,7 +21,7 @@ Backend
 
 
 
-<h2 align="center">💻 Use To Code</h2>
+<h2 align="center">💻 My Tech Stack</h2>
 
 <table align="center">
   <tr>
@@ -31,17 +31,29 @@ Backend
 
   <!-- Frontend -->
   <tr>
-    <td><b>Frontend</b></td>
+    <td><b>Frontend Skills</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next" />
+      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
+        <img src="https://skillicons.dev/icons?i=html" width="100" />
+        <img src="https://skillicons.dev/icons?i=css" width="100" />
+        <img src="https://skillicons.dev/icons?i=js" width="100" />
+        <img src="https://skillicons.dev/icons?i=ts" width="100" />
+        <img src="https://skillicons.dev/icons?i=react" width="100" />
+        <img src="https://skillicons.dev/icons?i=next" width="100" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="100" />
+      </div>
     </td>
   </tr>
 
   <!-- Backend -->
   <tr>
-    <td><b>Backend</b></td>
+    <td><b>Backend Skills</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express" />
+      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="100" />
+        <img src="https://skillicons.dev/icons?i=express" width="100" />
+        <img src="https://skillicons.dev/icons?i=nest" width="100" />
+      </div>
     </td>
   </tr>
 
@@ -49,7 +61,10 @@ Backend
   <tr>
     <td><b>Database</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql" />
+      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
+        <img src="https://skillicons.dev/icons?i=mysql" width="100" />
+        <img src="https://skillicons.dev/icons?i=sequelize" width="100" />
+      </div>
     </td>
   </tr>
 
@@ -57,10 +72,18 @@ Backend
   <tr>
     <td><b>Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=npm,git,github,vscode,vercel" />
+      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
+        <img src="https://skillicons.dev/icons?i=npm" width="100" />
+        <img src="https://skillicons.dev/icons?i=git" width="100" />
+        <img src="https://skillicons.dev/icons?i=github" width="100" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="100" />
+        <img src="https://skillicons.dev/icons?i=vercel" width="100" />
+      </div>
     </td>
   </tr>
 </table>
+
+
 
 
 
