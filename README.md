@@ -47,6 +47,7 @@ Backend
       <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
         <img src="https://skillicons.dev/icons?i=nodejs" width="70" />
         <img src="https://skillicons.dev/icons?i=express" width="70" />
+        <img src="https://skillicons.dev/icons?i=php" width="70" />
         <img src="https://skillicons.dev/icons?i=nest" width="70" />
       </div>
     </td>
