@@ -21,14 +21,9 @@ Backend
 
 
 
-<h2 align="center">💻 My Tech Stack</h2>
+<h2 align="center">💻 Use To Code</h2>
 
 <table align="center">
-  <tr>
-    <th>Category</th>
-    <th>Skills</th>
-  </tr>
-
   <!-- Frontend -->
   <tr>
     <td><b>Frontend Skills</b></td>
