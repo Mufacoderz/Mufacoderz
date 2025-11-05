@@ -26,7 +26,7 @@ Backend
 <table align="center">
   <!-- Frontend -->
   <tr>
-    <td><b>Frontend Skills</b></td>
+    <td><b>Frontend</b></td>
     <td>
       <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
         <img src="https://skillicons.dev/icons?i=html" width="70" />
@@ -42,7 +42,7 @@ Backend
 
   <!-- Backend -->
   <tr>
-    <td><b>Backend Skills</b></td>
+    <td><b>Backend</b></td>
     <td>
       <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
         <img src="https://skillicons.dev/icons?i=nodejs" width="70" />
