@@ -12,15 +12,14 @@
 
 
 
-
-# Hello World 👋 I'm Muhammad Fadil👨‍💻
+<h1>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" style="vertical-align: middle;" />
+  Hello World 👋 I'm Muhammad Fadil 👨‍💻
+</h1>
 
 Welcome to my GitHub profile! I am an Information Systems student passionate about Fullstack & Web3 Development.
 👨‍💻 Coding enthusiast on a mission to craft user-friendly and dynamic web applications with AI Integration. Let's build something awesome together!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
-</p>
 
 ## 👨‍💻 About Me
 - 🧑‍🎓 Currently pursuing a degree in Information Systems.
