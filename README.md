@@ -103,6 +103,14 @@ Backend
 ![](https://github-readme-stats.vercel.app/api?username=Mufacoderz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mufacoderz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<h1 align="center">
+  Bye-bye Thanks For Looking
+</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2k5cXBkbTZoNXVka3VobHc1bmVvaHdrbGFyZnNieGlqZmpqeWZmcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VelWewgR6CpNK/giphy.gif" width="500">
+</p>
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Mufacoderz&icon=0&color=0)](https://visitcount.itsvg.in)
 
