@@ -21,8 +21,13 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 Backend
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="600">
-</p> 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQwZG85cGRiZm1taGxuaDJwM2gzZXZvNXI2ZmR0a3phN2s3YWo1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300">
+</p>
+
+![coding gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQwZG85cGRiZm1taGxuaDJwM2gzZXZvNXI2ZmR0a3phN2s3YWo1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
+
+
+
 
 <h2 align="center">💻 Use To Code</h2>
 
