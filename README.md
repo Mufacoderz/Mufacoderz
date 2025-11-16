@@ -10,7 +10,6 @@
 # Hello World 👋 I'm Muhammad Fadil👨‍💻
 
 Welcome to my GitHub profile! I am an Information Systems student passionate about Fullstack & Web3 Development.
-
 👨‍💻 Coding enthusiast on a mission to craft user-friendly and dynamic web applications with AI Integration. Let's build something awesome together!
 
 ## 👨‍💻 About Me
