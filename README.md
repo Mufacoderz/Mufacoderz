@@ -3,14 +3,24 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Mufacoderz&label=Profile%20views&color=0e75b6&style=flat" alt="Mufacoderz" /> 
 </p>
+
+
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWw4NWd5aTJ4NDBvM2hlM3psbHA5ZWxzMHR6aWQ2OWRyNjcwNmFoaCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="300">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQwZG85cGRiZm1taGxuaDJwM2gzZXZvNXI2ZmR0a3phN2s3YWo1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="400">
 </p>
+
+
+
 
 # Hello World 👋 I'm Muhammad Fadil👨‍💻
 
 Welcome to my GitHub profile! I am an Information Systems student passionate about Fullstack & Web3 Development.
 👨‍💻 Coding enthusiast on a mission to craft user-friendly and dynamic web applications with AI Integration. Let's build something awesome together!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
+</p>
 
 ## 👨‍💻 About Me
 - 🧑‍🎓 Currently pursuing a degree in Information Systems.
@@ -21,13 +31,9 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 Backend
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQwZG85cGRiZm1taGxuaDJwM2gzZXZvNXI2ZmR0a3phN2s3YWo1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhvbm1heGs5eGF3bTJlN2l2emxsbzd2cXFkdXUxaXFraHQ4cjd0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xni0PWO8GKtttaoa5R/giphy.gif" width="430">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmt4OWh3bzZ5MGlhd2VvM21yaWdkNDJxMWVhc2Z3aXI3bHkwYWM0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" width="300">
 </p>
-
-![coding gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQwZG85cGRiZm1taGxuaDJwM2gzZXZvNXI2ZmR0a3phN2s3YWo1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
-
-
-
 
 <h2 align="center">💻 Use To Code</h2>
 
