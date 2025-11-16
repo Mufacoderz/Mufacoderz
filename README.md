@@ -6,7 +6,9 @@
 
 
 # Hello World 👋 I'm Muhammad Fadil👨‍💻
-
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+</p>
 Welcome to my GitHub profile! I am an Information Systems student passionate about Fullstack & Web3 Development.
 
 👨‍💻 Coding enthusiast on a mission to craft user-friendly and dynamic web applications with AI Integration. Let's build something awesome together!
@@ -19,7 +21,9 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 ## 🌱 Currently Learning
 Backend
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200">
+</p> 
 
 <h2 align="center">💻 Use To Code</h2>
 
