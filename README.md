@@ -107,7 +107,7 @@ Backend
   Bye-bye Thanks For Looking
 </h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2k5cXBkbTZoNXVka3VobHc1bmVvaHdrbGFyZnNieGlqZmpqeWZmcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VelWewgR6CpNK/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2k5cXBkbTZoNXVka3VobHc1bmVvaHdrbGFyZnNieGlqZmpqeWZmcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VelWewgR6CpNK/giphy.gif" width="100%">
 </p>
 
 
