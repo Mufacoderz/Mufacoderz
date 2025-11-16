@@ -3,12 +3,12 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Mufacoderz&label=Profile%20views&color=0e75b6&style=flat" alt="Mufacoderz" /> 
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="600">
+</p>
 
 # Hello World 👋 I'm Muhammad Fadil👨‍💻
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
-</p>
+
 Welcome to my GitHub profile! I am an Information Systems student passionate about Fullstack & Web3 Development.
 
 👨‍💻 Coding enthusiast on a mission to craft user-friendly and dynamic web applications with AI Integration. Let's build something awesome together!
@@ -16,13 +16,13 @@ Welcome to my GitHub profile! I am an Information Systems student passionate abo
 ## 👨‍💻 About Me
 - 🧑‍🎓 Currently pursuing a degree in Information Systems.
 - 🌟 Passionate about creating interactive and visually appealing modern websites.
-- 🎯 My goal is to become a .....
+- 🎯 My goal is to become a .....Penghuni Surga
 
 ## 🌱 Currently Learning
 Backend
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="600">
 </p> 
 
 <h2 align="center">💻 Use To Code</h2>
