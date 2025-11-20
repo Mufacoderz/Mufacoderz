@@ -100,7 +100,8 @@ Backend
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Mufacoderz&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=Mufacoderz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mufacoderz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mufacoderz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10)
+)
 
 <h1 align="center">
   Bye-bye Thanks For Looking
