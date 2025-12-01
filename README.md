@@ -97,10 +97,15 @@ Backend
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Mufacoderz&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=Mufacoderz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-stats-mu-livid-13.vercel.app/api/top-langs/?username=Mufacoderz&layout=compact&langs_count=12&theme=tokyonight
-)
+<!-- Streak Stats -->
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Mufacoderz&theme=tokyonight&hide_border=false)
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats-mu-livid-13.vercel.app/api?username=Mufacoderz&include_all_commits=false&count_private=false&theme=tokyonight&hide_border=false)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats-mu-livid-13.vercel.app/api/top-langs/?username=Mufacoderz&layout=compact&langs_count=12&theme=tokyonight&hide_border=false)
+
 
 
 <h1 align="center">
