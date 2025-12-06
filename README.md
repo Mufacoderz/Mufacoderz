@@ -5,11 +5,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWw4NWd5aTJ4NDBvM2hlM3psbHA5ZWxzMHR6aWQ2OWRyNjcwNmFoaCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="300">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQwZG85cGRiZm1taGxuaDJwM2gzZXZvNXI2ZmR0a3phN2s3YWo1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="400">
-</p>
-
 
 
 <h1>
@@ -17,8 +12,8 @@
   Hello World 👋 I'm Muhammad Fadil 👨‍💻
 </h1>
 
-Welcome to my GitHub profile! I am an Information Systems student passionate about Fullstack & Web3 Development.
-👨‍💻 Coding enthusiast on a mission to craft user-friendly and dynamic web applications with AI Integration. Let's build something awesome together!
+Welcome to my GitHub profile! I am a 19yo information systems student, located in Kutai Kartanegara, East Kalimantan, Indonesia. Passionate about Fullstack, GenAI & Web3 Development.
+👨‍💻 Coding enthusiast on a mission to craft cool and modern web applications with AI Integration. Let's build something awesome together!
 
 
 ## 👨‍💻 About Me
