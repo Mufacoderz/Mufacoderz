@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I am a 19yo information systems student, located i
 
 ## 👨‍💻 About Me
 - 🧑‍🎓 Currently pursuing a degree in Information Systems.
-- 🌟 Passionate about creating interactive and visually appealing modern websites.
+- 🌟 Passionate about creating interactive and visually appealing modern websites with AI integration.
 - 🎯 My goal is to become a .....Penghuni Surga
 
 ## 🌱 Currently Learning
