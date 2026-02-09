@@ -13,7 +13,7 @@
 </h1>
 
 Welcome to my GitHub profile! I am a 20yo information systems student, located in Kutai Kartanegara, East Kalimantan, Indonesia. Passionate about Fullstack, GenAI & Web3 Development.
-👨‍💻 Coding enthusiast on a mission to craft cool and modern web applications with AI Integration. Let's build something awesome together!
+👨‍💻 Coding enthusiast on a mission to craft cool and modern web applications with AI Integration.
 
 
 ## 👨‍💻 About Me
@@ -56,6 +56,7 @@ Nextjs, php laravel & Backend Concepts
         <img src="https://skillicons.dev/icons?i=nodejs" width="70" />
         <img src="https://skillicons.dev/icons?i=express" width="70" />
         <img src="https://skillicons.dev/icons?i=php" width="70" />
+        <img src="https://skillicons.dev/icons?i=laravel" width="70" />
       </div>
     </td>
   </tr>
