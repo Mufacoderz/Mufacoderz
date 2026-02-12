@@ -67,7 +67,7 @@ Nextjs, php laravel & Backend Concepts
     <td>
       <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
         <img src="https://skillicons.dev/icons?i=mysql" width="70" />
-        <img src="https://skillicons.dev/icons?i=sequelize" width="70" />
+        
       </div>
     </td>
   </tr>
