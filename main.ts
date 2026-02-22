@@ -31,7 +31,6 @@ showSkills();
 
 button.addEventListener("click", () => {
     const link = "https://youtu.be/dQw4w9WgXcQ"; 
-    button.textContent = "🔄 Redirecting...";
     button.classList.add("scale-95");
 
     setTimeout(() => {
