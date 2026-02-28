@@ -44,6 +44,7 @@ Backend Concepts with express laravel
         <img src="https://skillicons.dev/icons?i=react" width="70" />
         <img src="https://skillicons.dev/icons?i=next" width="70" />
         <img src="https://skillicons.dev/icons?i=tailwind" width="70" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="70" />
       </div>
     </td>
   </tr>
