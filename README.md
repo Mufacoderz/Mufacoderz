@@ -80,6 +80,8 @@ Backend Concepts with express laravel
         <img src="https://skillicons.dev/icons?i=github" width="70" />
         <img src="https://skillicons.dev/icons?i=vscode" width="70" />
         <img src="https://skillicons.dev/icons?i=vercel" width="70" />
+        <img src="https://cdn.simpleicons.org/openai" width="70" />
+<img src="https://cdn.simpleicons.org/claude" width="70" />
       </div>
     </td>
   </tr>
