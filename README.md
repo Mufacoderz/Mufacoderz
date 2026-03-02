@@ -81,13 +81,22 @@ Backend Concepts with express laravel
         <img src="https://skillicons.dev/icons?i=github" width="70" />
         <img src="https://skillicons.dev/icons?i=vscode" width="70" />
         <img src="https://skillicons.dev/icons?i=vercel" width="70" />
+      </div>
+    </td>
+  </tr>
+
+  <!-- AI Assistance -->
+  <tr>
+    <td><b>AI Assistance</b></td>
+    <td>
+      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="70" />
         <img src="https://cdn.simpleicons.org/claude" width="70" />
       </div>
     </td>
   </tr>
 
-    <!-- Design -->
+  <!-- Design -->
   <tr>
     <td><b>Design</b></td>
     <td>
