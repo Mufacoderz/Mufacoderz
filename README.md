@@ -86,6 +86,17 @@ Backend Concepts with express laravel
       </div>
     </td>
   </tr>
+
+    <!-- Design -->
+  <tr>
+    <td><b>Design</b></td>
+    <td>
+      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
+        <img src="https://skillicons.dev/icons?i=figma" width="70" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg" width="70" style="filter: invert(63%) sepia(59%) saturate(484%) hue-rotate(132deg) brightness(95%) contrast(92%);" />
+      </div>
+    </td>
+  </tr>
 </table>
 
 
