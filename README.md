@@ -12,7 +12,7 @@
   Hello World 👋 I'm Muhammad Fadil 👨‍💻
 </h1>
 
-Welcome to my GitHub profile! I am a 20yo information systems student, located in Loa Janan, Kutai Kartanegara, East Kalimantan, Indonesia. Passionate about Fullstack, GenAI & Web3 Development.
+Welcome to my GitHub profile! I am a 20yo information systems student, located in Loa Janan, Kutai Kartanegara, East Kalimantan, Indonesia. Passionate about Fullstack Web3 Development.
 👨‍💻 Coding enthusiast on a mission to craft cool and modern web applications with AI Integration.
 
 
