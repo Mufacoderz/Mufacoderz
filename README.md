@@ -4,9 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=Mufacoderz&label=Profile%20views&color=0e75b6&style=flat" alt="Mufacoderz" /> 
 </p>
 
-
-
-
 <h1>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" style="vertical-align: middle;" />
   Hello World 👋 I'm Muhammad Fadil 👨‍💻
@@ -32,6 +29,19 @@ Backend Concepts with express laravel
 <h2 align="center">💻 Use To Code</h2>
 
 <table align="center">
+  <!-- Languages -->
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
+        <img src="https://skillicons.dev/icons?i=js" width="70" />
+        <img src="https://skillicons.dev/icons?i=ts" width="70" />
+        <img src="https://skillicons.dev/icons?i=php" width="70" />
+        <img src="https://skillicons.dev/icons?i=python" width="70" />
+      </div>
+    </td>
+  </tr>
+
   <!-- Frontend -->
   <tr>
     <td><b>Frontend</b></td>
@@ -39,8 +49,6 @@ Backend Concepts with express laravel
       <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
         <img src="https://skillicons.dev/icons?i=html" width="70" />
         <img src="https://skillicons.dev/icons?i=css" width="70" />
-        <img src="https://skillicons.dev/icons?i=js" width="70" />
-        <img src="https://skillicons.dev/icons?i=ts" width="70" />
         <img src="https://skillicons.dev/icons?i=react" width="70" />
         <img src="https://skillicons.dev/icons?i=next" width="70" />
         <img src="https://skillicons.dev/icons?i=tailwind" width="70" />
@@ -56,7 +64,6 @@ Backend Concepts with express laravel
       <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
         <img src="https://skillicons.dev/icons?i=nodejs" width="70" />
         <img src="https://skillicons.dev/icons?i=express" width="70" />
-        <img src="https://skillicons.dev/icons?i=php" width="70" />
         <img src="https://skillicons.dev/icons?i=laravel" width="70" />
       </div>
     </td>
@@ -68,7 +75,8 @@ Backend Concepts with express laravel
     <td>
       <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
         <img src="https://skillicons.dev/icons?i=mysql" width="70" />
-      
+      </div>
+    </td>
   </tr>
 
   <!-- Tools -->
@@ -109,10 +117,6 @@ Backend Concepts with express laravel
 </table>
 
 
-
-
-
-
 # 📊 GitHub Stats:
 <!-- Streak Stats -->
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Mufacoderz&theme=tokyonight&hide_border=false)
@@ -124,14 +128,12 @@ Backend Concepts with express laravel
 ![Top Langs](https://github-readme-stats-mu-livid-13.vercel.app/api/top-langs/?username=Mufacoderz&layout=compact&langs_count=12&theme=tokyonight&hide_border=false)
 
 
-
 <h1 align="center">
   Bye-bye Thanks For Looking
 </h1>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2k5cXBkbTZoNXVka3VobHc1bmVvaHdrbGFyZnNieGlqZmpqeWZmcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VelWewgR6CpNK/giphy.gif" width="100%">
 </p>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mufacoderz&icon=0&color=0)](https://visitcount.itsvg.in)
