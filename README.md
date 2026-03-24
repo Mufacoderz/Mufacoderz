@@ -89,6 +89,8 @@ Backend Concepts with express laravel
         <img src="https://skillicons.dev/icons?i=github" width="70" />
         <img src="https://skillicons.dev/icons?i=vscode" width="70" />
         <img src="https://skillicons.dev/icons?i=vercel" width="70" />
+        <img src="https://laragon.org/favicon.ico" width="70" />
+        <img src="https://www.apachefriends.org/images/favicon-18f9bd42.png" width="70" />
       </div>
     </td>
   </tr>
