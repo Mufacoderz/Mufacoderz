@@ -102,6 +102,7 @@ Backend Concepts with express laravel
       <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="70" />
         <img src="https://cdn.simpleicons.org/claude" width="70" />
+        <img src="https://cdn.simpleicons.org/githubcopilot" width="70" />
       </div>
     </td>
   </tr>
