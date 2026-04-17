@@ -70,14 +70,16 @@ Backend Concepts with express laravel
   </tr>
 
   <!-- Database -->
-  <tr>
-    <td><b>Database</b></td>
-    <td>
-      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
-        <img src="https://skillicons.dev/icons?i=mysql" width="70" />
-      </div>
-    </td>
-  </tr>
+<tr>
+  <td><b>Database</b></td>
+  <td>
+    <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
+      <img src="https://skillicons.dev/icons?i=mysql" width="70" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="70" />
+      <img src="https://skillicons.dev/icons?i=supabase" width="70" />
+    </div>
+  </td>
+</tr>
 
   <!-- Tools -->
   <tr>
