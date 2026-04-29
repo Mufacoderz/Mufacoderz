@@ -1,5 +1,3 @@
-![Hero](hero.jpg)
-
 
 <h1>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" style="vertical-align: middle;" />
