@@ -1,16 +1,13 @@
 ![Hero](hero.jpg)
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Mufacoderz&label=Profile%20views&color=0e75b6&style=flat" alt="Mufacoderz" /> 
-</p>
 
 <h1>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" style="vertical-align: middle;" />
   Hello World 👋 I'm Muhammad Fadil 👨‍💻
 </h1>
 
-Welcome to my GitHub profile! I am a 20yo information systems student, located in Loa Janan, Kutai Kartanegara, East Kalimantan, Indonesia. Passionate about Fullstack Web3 Development.
-👨‍💻 Coding enthusiast on a mission to craft cool and modern web applications with AI Integration.
+Welcome to my GitHub profile! I am a 20yo information systems student, located in Loa Janan, Kutai Kartanegara, East Kalimantan, Indonesia. Passionate about Fullstack Development & Product App.
+👨‍💻 Coding enthusiast on a mission to craft cool and modern web applications and usefull web product.
 
 
 ## 👨‍💻 About Me
@@ -19,7 +16,7 @@ Welcome to my GitHub profile! I am a 20yo information systems student, located i
 - 🎯 My goal is to become a .....Penghuni Surga
 
 ## 🌱 Currently Learning
-Backend Concepts with express laravel
+Backend Concepts with express elysia laravel
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhvbm1heGs5eGF3bTJlN2l2emxsbzd2cXFkdXUxaXFraHQ4cjd0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xni0PWO8GKtttaoa5R/giphy.gif" width="430">
