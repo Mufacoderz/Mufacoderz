@@ -119,13 +119,15 @@ Backend Concepts with express elysia laravel
 
 # 📊 GitHub Stats:
 <!-- Streak Stats -->
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Mufacoderz&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mufacoderz&theme=tokyonight&hide_border=false)
 
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats-mu-livid-13.vercel.app/api?username=Mufacoderz&include_all_commits=false&count_private=false&theme=tokyonight&hide_border=false)
 
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats-mu-livid-13.vercel.app/api/top-langs/?username=Mufacoderz&layout=compact&langs_count=12&theme=tokyonight&hide_border=false)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mufacoderz&theme=tokyo-night&hide_border=true)
 
 
 <h1 align="center">
