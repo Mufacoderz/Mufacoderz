@@ -72,9 +72,11 @@ Backend Concepts with express elysia laravel
       <img src="https://skillicons.dev/icons?i=mysql" width="70" />
       <img src="https://skillicons.dev/icons?i=postgres" width="70" />
       <img src="https://skillicons.dev/icons?i=supabase" width="70" />
+      <img src="https://cdn.simpleicons.org/neon" width="70" />
     </div>
   </td>
 </tr>
+
 
   <!-- Tools -->
   <tr>
@@ -92,17 +94,19 @@ Backend Concepts with express elysia laravel
     </td>
   </tr>
 
-  <!-- AI Assistance -->
-  <tr>
-    <td><b>AI Assistance</b></td>
-    <td>
-      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="70" />
-        <img src="https://cdn.simpleicons.org/claude" width="70" />
-        <img src="https://cdn.simpleicons.org/githubcopilot" width="70" />
-      </div>
-    </td>
-  </tr>
+<!-- AI Assistance -->
+<tr>
+  <td><b>AI Assistance</b></td>
+  <td>
+    <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 200px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="70" />
+      <img src="https://cdn.simpleicons.org/claude" width="70" />
+      <img src="https://cdn.simpleicons.org/githubcopilot" width="70" />
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/groq.png" width="70" />
+    </div>
+  </td>
+</tr>
+
 
   <!-- Design -->
   <tr>
