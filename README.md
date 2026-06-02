@@ -13,11 +13,11 @@
 
 I'm an Information Systems student from East Kalimantan, Indonesia.
 
-I start by identifying real problems, then design the solution — through brainstorming, research, and shaping the product concept from layout, color, typography, to user and system flows.
+I start by identifying real problems, then design the solution, through brainstorming, research, and shaping the product concept from layout, color, typography, to user and system flows.
 
 I use Generative AI as an accelerator, while staying hands-on in implementation, feature development, debugging, and making sure every part of the product works as intended.
 
-I enjoy building products that solve problems I personally experience — from daily utility apps and developer productivity tools to AI-powered applications. Most of my projects start with a simple thought:
+I enjoy building products that solve problems I personally experience, from daily utility apps and developer productivity tools to AI-powered applications. Most of my projects start with a simple thought:
 
 > *"This problem is annoying. Why don't I just build something for it?"*
 
@@ -25,31 +25,40 @@ I enjoy building products that solve problems I personally experience — from d
 
 ## 🗺️ My Journey
 
-My projects aren't random — they follow a clear evolution. Each phase taught me something new, and every tool I built started as a problem I personally lived with.
+My projects aren't random, they follow a clear evolution, each starting 
+from a problem I personally lived with.
 
 ### Phase 1: The Learning & Utility Phase
 
-Started as a fullstack learning playground — no big vision, just building features to practice. Somewhere along the way I realized I kept opening random sites for Adhan schedules, and never found a Quran app that felt clean to read. So I added both, turning my practice project into something I'd actually use daily.
+Started as a fullstack learning playground. Midway through, I realized I 
+kept opening random sites for Adhan schedules and isnt uncommon to found a Quran web that felt clean — so I added both.
 
-- **Mufadz Portal** — A fullstack learning project that grew into a personal Islamic companion app with prayer schedules, a clean Quran reader, and other features that started as practice and ended up genuinely useful.
+- **Mufadz Portal** — A learning project that grew into a personal Islamic 
+  companion app with prayer schedules, a clean Quran reader, and other 
+  practice features that ended up genuinely useful.
 
 ### Phase 2: Solving My Own Problems
 
-I shifted toward behavioral optimization — analyzing my daily habits and building dedicated apps to replace unorganized data silos like WhatsApp chat logs.
+I analyzed my daily habits and built apps to replace messy workarounds 
+like storing notes and workout logs in WhatsApp.
 
-- **Chatme** — I used to text myself on WhatsApp to store quick notes and reminders. I built Chatme to preserve that fluid, chat-based muscle memory while adding proper organization.
-- **Dailyfit** — My home workout routines were tracked randomly via WhatsApp messages, leading to inconsistent habits and zero insights. I built Dailyfit to systemize my fitness journey with exercise catalogs, structured plans, daily checklists, and progress analytics.
+- **Chatme** — Chat-based notes and reminders app, built to replace the 
+  habit of texting myself on WhatsApp.
+- **Dailyfit** — Personal workout tracker built to replace random WhatsApp 
+  logs with structured plans, exercise catalogs, and progress tracker.
 
 ### Phase 3: Engineering for the Developer Community
 
-Moving beyond personal utilities, I began analyzing broader industry pain points — focusing on developer productivity, knowledge management, and AI-era codebase navigation.
+Shifted focus to broader pain points — developer productivity, knowledge 
+management, and AI-era codebase navigation.
 
-- **DevNote** — Built to eliminate fragmented development resources. Developers waste time digging through old repos for past configs and snippets. DevNote acts as a centralized knowledge platform to store, categorize, and instantly reuse snippets, templates, and guides — with team workspaces, a custom VS Code Extension, and API token integrations.
-- **DevMap** — A CLI tool that uses static analysis and AI to map out an entire codebase in minutes. Detects architecture, features, and dependencies automatically, generates Mermaid flowcharts, and features a Context Builder to feed only relevant code into LLMs — saving token costs.
+- **DevNote** — Centralized knowledge platform to store and reuse snippets, 
+  files, and resources, with team workspaces and a VS Code Extension.
+- **DevMap** — CLI tool that maps an entire codebase in minutes using static analysis and AI, onboarding features, and builds context for LLMs.
 
 ### Hackathon & Rapid Prototyping
 
-- **De Home Spa** — Built under a tight hackathon deadline. Sharpened my ability to rapidly prototype an MVP, manage scope under pressure, and deliver clean code on a strict schedule.
+- **De Home Spa** — Built under a tight hackathon deadline, where speed and teamwork were everything. Learned to scope fast, divide work effectively, and ship together under pressure..
 
 ---
 
