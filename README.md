@@ -35,23 +35,18 @@ That mindset led me to create developer tools, productivity systems, AI-integrat
 ## 🚀 Featured Projects
 
 ### 🗺️ Devmap *(In Planning)*
-
 AI-powered CLI for understanding unfamiliar codebases through static analysis and intelligent explanations.
 
 ### 📝 Devnote *(In Progress)*
-
 A developer knowledge hub for reusable code, files, resources, and technical documentation.
 
 ### 🏠 de Home Spa v2 *(Finished)*
-
-An AI-powered consultation and booking platform that recommends treatments through conversational interactions.
+An AI-powered consultation and booking platform that recommends treatments through conversational interactions. Originally from hackathon and was update with an AI chatbot consultation.
 
 ### 💬 ChatMe *(Finished MVP)*
-
 A chat-based personal notes and reminders application designed for lightweight knowledge management.
 
 ### 💪 DailyFit *(Finished MVP)*
-
 A personal home workout tracker and planner focused on consistency and long-term fitness progress.
 
 ### 🕌 Mufadz Portal *(Finished)*
