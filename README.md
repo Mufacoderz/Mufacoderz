@@ -68,7 +68,7 @@ management, and AI-era codebase navigation.
 - Create an ecosystem of open-source tools that developers genuinely enjoy using.
 - Get rich.
 - Slow life in a small village.
-- Become a penghulu surga.
+- Become a penghuni surga.
 
 ---
 
