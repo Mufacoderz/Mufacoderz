@@ -9,16 +9,47 @@
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
 I'm an Information Systems student from East Kalimantan, Indonesia.
 
-I enjoy building products that solve problems I personally experience, from daily utility app, developer productivity tools to AI-powered applications.
-Most of my projects start with a simple thought:
+I start by identifying real problems, then design the solution — through brainstorming, research, and shaping the product concept from layout, color, typography, to user and system flows.
 
-> "This problem is annoying. Why don't I just build something for it?"
+I use Generative AI as an accelerator, while staying hands-on in implementation, feature development, debugging, and making sure every part of the product works as intended.
 
-That mindset led me to create developer tools, productivity systems, AI-integrated applications, and personal-use products that continue evolving over time.
+I enjoy building products that solve problems I personally experience — from daily utility apps and developer productivity tools to AI-powered applications. Most of my projects start with a simple thought:
+
+> *"This problem is annoying. Why don't I just build something for it?"*
+
+---
+
+## 🗺️ My Journey
+
+My projects aren't random — they follow a clear evolution. Each phase taught me something new, and every tool I built started as a problem I personally lived with.
+
+### Phase 1: The Learning & Utility Phase
+
+Started as a fullstack learning playground — no big vision, just building features to practice. Somewhere along the way I realized I kept opening random sites for Adhan schedules, and never found a Quran app that felt clean to read. So I added both, turning my practice project into something I'd actually use daily.
+
+- **Mufadz Portal** — A fullstack learning project that grew into a personal Islamic companion app with prayer schedules, a clean Quran reader, and other features that started as practice and ended up genuinely useful.
+
+### Phase 2: Solving My Own Problems
+
+I shifted toward behavioral optimization — analyzing my daily habits and building dedicated apps to replace unorganized data silos like WhatsApp chat logs.
+
+- **Chatme** — I used to text myself on WhatsApp to store quick notes and reminders. I built Chatme to preserve that fluid, chat-based muscle memory while adding proper organization.
+- **Dailyfit** — My home workout routines were tracked randomly via WhatsApp messages, leading to inconsistent habits and zero insights. I built Dailyfit to systemize my fitness journey with exercise catalogs, structured plans, daily checklists, and progress analytics.
+
+### Phase 3: Engineering for the Developer Community
+
+Moving beyond personal utilities, I began analyzing broader industry pain points — focusing on developer productivity, knowledge management, and AI-era codebase navigation.
+
+- **DevNote** — Built to eliminate fragmented development resources. Developers waste time digging through old repos for past configs and snippets. DevNote acts as a centralized knowledge platform to store, categorize, and instantly reuse snippets, templates, and guides — with team workspaces, a custom VS Code Extension, and API token integrations.
+- **DevMap** — A CLI tool that uses static analysis and AI to map out an entire codebase in minutes. Detects architecture, features, and dependencies automatically, generates Mermaid flowcharts, and features a Context Builder to feed only relevant code into LLMs — saving token costs.
+
+### Hackathon & Rapid Prototyping
+
+- **De Home Spa** — Built under a tight hackathon deadline. Sharpened my ability to rapidly prototype an MVP, manage scope under pressure, and deliver clean code on a strict schedule.
 
 ---
 
@@ -28,38 +59,14 @@ That mindset led me to create developer tools, productivity systems, AI-integrat
 - Create an ecosystem of open-source tools that developers genuinely enjoy using.
 - Get rich.
 - Slow life in a small village.
-- Become a penghuni surga.
+- Become a penghulu surga.
 
 ---
-
-## 🚀 Featured Projects
-
-### 🗺️ Devmap *(In Planning)*
-AI-powered CLI for understanding unfamiliar codebases through static analysis and intelligent explanations.
-
-### 📝 Devnote *(In Progress)*
-A developer knowledge hub for reusable code, files, resources, and technical documentation.
-
-### 🏠 de Home Spa v2 *(Finished)*
-An AI-powered consultation and booking platform that recommends treatments through conversational interactions. Originally from hackathon and was update with an AI chatbot consultation.
-
-### 💬 ChatMe *(Finished MVP)*
-A chat-based personal notes and reminders application designed for lightweight knowledge management.
-
-### 💪 DailyFit *(Finished MVP)*
-A personal home workout tracker and planner focused on consistency and long-term fitness progress.
-
-### 🕌 Mufadz Portal *(Finished)*
-A personal Islamic companion platform featuring prayer schedules, Quran tools, and daily utilities.
-
----
-
-
 
 ## 🌱 Currently Learning
 
 - AI Integration & LLM Applications
-- Deep Backend (Laravel, express, elysia)
+- Deep Backend (Laravel, Express, Elysia)
 - Monorepo Architecture
 - VS Code Extension Development
 - Product Engineering
