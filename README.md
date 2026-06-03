@@ -11,13 +11,8 @@
 
 ## ✨ About Me
 
-I'm an Information Systems student from East Kalimantan, Indonesia.
-
-I start by identifying real problems, then design the solution, through brainstorming, research, and shaping the product concept from layout, color, typography, to user and system flows.
-
-I use Generative AI as an accelerator, while staying hands-on in implementation, feature development, debugging, and making sure every part of the product works as intended.
-
-I enjoy building products that solve problems I personally experience, from daily utility apps and developer productivity tools to AI-powered applications. Most of my projects start with a simple thought:
+I'm an Information Systems student from East Kalimantan, Indonesia — building products that solve problems I personally experience, from daily utility apps to developer tools and AI-powered applications.
+Most of my projects start with a simple thought:
 
 > *"This problem is annoying. Why don't I just build something for it?"*
 
@@ -158,27 +153,16 @@ management, and AI-era codebase navigation.
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mufacoderz&theme=tokyonight&hide_border=false)
-
 ![GitHub Stats](https://github-readme-stats-mu-livid-13.vercel.app/api?username=Mufacoderz&include_all_commits=false&count_private=false&theme=tokyonight&hide_border=false)
 
 ![Top Langs](https://github-readme-stats-mu-livid-13.vercel.app/api/top-langs/?username=Mufacoderz&layout=compact&langs_count=12&theme=tokyonight&hide_border=false)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mufacoderz&theme=tokyo-night&hide_border=true)
-
 ---
 
-## 📫 Connect With Me
 
-- GitHub: **@Mufacoderz**
-- Portfolio Website: **Coming Soon**
-- LinkedIn: **Coming Soon**
-
----
-
-<h1 align="center">
+<h2 align="center">
   Bye-bye Thanks For Looking 👋
-</h1>
+</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2k5cXBkbTZoNXVka3VobHc1bmVvaHdrbGFyZnNieGlqZmpqeWZmcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VelWewgR6CpNK/giphy.gif" width="100%">
