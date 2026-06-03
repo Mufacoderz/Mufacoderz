@@ -25,8 +25,12 @@ I enjoy building products that solve problems I personally experience, from dail
 
 ## 🗺️ My Journey
 
-My projects aren't random, they follow a clear evolution, each starting 
+My projects aren't random — they follow a clear evolution, each starting 
 from a problem I personally lived with.
+
+Before building real products, I spent time learning frontend through 
+small practice projects — just enough to get comfortable before going 
+fullstack.
 
 ### Phase 1: The Learning & Utility Phase
 
@@ -47,7 +51,7 @@ like storing notes and workout logs in WhatsApp.
 - **Dailyfit** — Personal workout tracker built to replace random WhatsApp 
   logs with structured plans, exercise catalogs, and progress tracker.
 
-### Phase 3: Engineering for the Developer Community
+### Phase 3: Engineering for the Developer Community (now)
 
 Shifted focus to broader pain points — developer productivity, knowledge 
 management, and AI-era codebase navigation.
