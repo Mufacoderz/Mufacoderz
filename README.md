@@ -139,7 +139,7 @@ Shifted focus to broader pain points — developer productivity, knowledge manag
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-mu-livid-13.vercel.app/api?username=Mufacoderz&include_all_commits=false&count_private=false&theme=tokyonight&hide_border=false)
+![GitHub Stats](https://github-readme-stats-mu-livid-13.vercel.app/api?username=itsflaid&include_all_commits=false&count_private=false&theme=tokyonight&hide_border=false)
 
 ![Top Langs](https://github-readme-stats-mu-livid-13.vercel.app/api/top-langs/?username=Mufacoderz&layout=compact&langs_count=12&theme=tokyonight&hide_border=false)
 
