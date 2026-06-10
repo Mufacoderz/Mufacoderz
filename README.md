@@ -38,19 +38,18 @@ Most of my projects start with a simple thought:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,nodejs,express,laravel,postgres,mysql,supabase,prisma,git,vercel,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,nodejs,express,laravel,postgres,mysql,supabase,prisma,git,vercel,figma,vscode&perline=10" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/openai/white" width="36" title="OpenAI"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/anthropic/white" width="36" title="Claude"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="28"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/githubcopilot/white" width="36" title="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" height="28"/>
   &nbsp;
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/groq.png" width="36" title="Groq"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" height="28"/>
 </p>
-
 ---
 
 ## 🌱 Currently Learning
