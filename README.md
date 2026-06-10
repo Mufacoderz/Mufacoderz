@@ -12,7 +12,7 @@
 
 ## ✨ About Me
 
-Information Systems student from East Kalimantan, Indonesia — building products that solve problems I personally experience, from daily utility apps to developer tools and AI-powered applications.
+Information Systems student from East Kalimantan, Indonesia — self-taught since September 2024, building products that solve problems I personally experience, from daily utility apps to developer tools and AI-powered applications.
 
 Most of my projects start with a simple thought:
 
